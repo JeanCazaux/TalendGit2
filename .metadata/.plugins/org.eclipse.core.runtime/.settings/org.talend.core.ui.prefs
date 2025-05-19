@@ -1,0 +1,10 @@
+COLLECTOR_SYNC_NB=1
+WEBHOOK_ETLTOOL_BACK_HOST=https\://etltool.back.deilink.fr\:19010
+WEBHOOK_ETLTOOL_ENABLED=true
+WEBHOOK_ETLTOOL_FRONT_HOST=https\://etltool.deilink.fr
+WEBHOOK_ETLTOOL_LOGIN=admin
+WEBHOOK_ETLTOOL_PASSWORD=EtlTool\!
+data_collector=true
+data_collector_last_time=2025-05-19 09\:14\:01
+eclipse.preferences.version=1
+first.time.launch=false

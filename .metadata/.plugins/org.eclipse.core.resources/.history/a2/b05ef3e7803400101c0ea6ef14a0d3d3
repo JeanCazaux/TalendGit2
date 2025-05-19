@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_xkCpMTSAEfCydN-exoS8cg" label="DEMOETL" description="" language="java" technicalLabel="DEMOETL" local="true" author="_xlk6QDSAEfCydN-exoS8cg" productVersion="Talaxie Open Studio for Data Integration-8.8.8.20250514_0841-SNAPSHOT" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_xmHFwDSAEfCydN-exoS8cg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_xlk6QDSAEfCydN-exoS8cg" login="contact@deilink.fr" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>

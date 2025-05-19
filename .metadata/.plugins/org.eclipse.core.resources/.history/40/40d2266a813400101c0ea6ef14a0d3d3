@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_Vb9o4ENLEd-UK4CtF6UouA" id="_QKNNUGZ8EeWm5YvsrIoYzQ" label="OnBoardingDemoJob" purpose="Used for on-boarding presentation" description="A simple row generation job" version="0.1" statusCode="" item="_Vb9o4kNLEd-UK4CtF6UouA" displayName="OnBoardingDemoJob">
+    <author href="../../talend.project#_xlk6QDSAEfCydN-exoS8cg"/>
+    <additionalProperties xmi:id="_-vUXsDSAEfCydN-exoS8cg" key="created_product_fullname" value="Talaxie Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_-vUXsTSAEfCydN-exoS8cg" key="created_product_version" value="8.8.8.20250514_0841-SNAPSHOT"/>
+    <additionalProperties xmi:id="_-vUXsjSAEfCydN-exoS8cg" key="created_date" value="2025-05-19T09:15:01.931+0200"/>
+    <additionalProperties xmi:id="_-vUXszSAEfCydN-exoS8cg" key="modified_product_fullname" value="Talaxie Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_-vUXtDSAEfCydN-exoS8cg" key="modified_product_version" value="8.8.8.20250514_0841-SNAPSHOT"/>
+    <additionalProperties xmi:id="_-vUXtTSAEfCydN-exoS8cg" key="modified_date" value="2025-05-19T09:15:01.931+0200"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_5-no0DSAEfCydN-exoS8cg" path="demo" locked="true" lockDate="2025-05-19T09:15:01.931+0200">
+    <locker href="../../talend.project#_xlk6QDSAEfCydN-exoS8cg"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_Vb9o4kNLEd-UK4CtF6UouA" property="_Vb9o4ENLEd-UK4CtF6UouA" state="_5-no0DSAEfCydN-exoS8cg">
+    <process href="OnBoardingDemoJob_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
