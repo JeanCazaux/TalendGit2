@@ -1,6 +1,10 @@
 CLOSE_EDITORS_ON_EXIT=true
 NOT_SHOW_ONBOARDING_AT_STARTUP=true
+<<<<<<< HEAD
 PREFERENCE_TALEND_LOGON_STARTUP_TIMES=2
+=======
+PREFERENCE_TALEND_LOGON_STARTUP_TIMES=3
+>>>>>>> 34b36ab (feat: first merge)
 eclipse.preferences.version=1
 lastUSedProject=DEMOETL
 last_started_project_type=NO_TYPE
