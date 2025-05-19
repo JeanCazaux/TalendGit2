@@ -36,7 +36,7 @@
     <output.resources.dir>${talend.job.name}/src/main/resources</output.resources.dir>
     <maven.build.timestamp.format>yyyy-MM-dd HHmmssSSS</maven.build.timestamp.format>
     <talend.project.branch.name></talend.project.branch.name>
-    <talend.product.version>8.8.8.20250514_0841-SNAPSHOT</talend.product.version>
+    <talend.product.version>8.8.8.20250314_1333-SNAPSHOT</talend.product.version>
     <talend.project.name>DEMOETL</talend.project.name>
     <current.test.resources.dir>${basedir}/src/test/resources</current.test.resources.dir>
     <talend.job.git.commit.date></talend.job.git.commit.date>
